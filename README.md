@@ -14,6 +14,5 @@ This is nothing new and is actually based on other rainmeter skins I've seen/uti
 	- Edit is important if you want to modify any of the settings for the icon in the .ini file
 
 
-# NOTEs 
-To personalize the respective .ini files follow the comments inside the "template.ini" for tips
-I've included options for sound effects, if you don't want these then just add a comment in front like so ";"
+# Note 
+To personalize the respective .ini files follow the comments inside the "template.ini" for tips. I've also included options for sound effects, if you don't want these then just add a comment in front like so ";".
