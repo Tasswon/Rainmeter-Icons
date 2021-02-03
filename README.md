@@ -2,7 +2,7 @@
 This is nothing new and is actually based on other rainmeter skins I've seen/utilized. However, I felt that maybe there are some people who want a simple starting point for icons which I have provided here. Please note any image can essentially be an icon (pngs are my most utilized for obvious reasons) and these can be beyond simple links to applications. I would suggest looking into other functionality like running scripts or even controlling your computer's power. Ultimately clicking to open files is the simplest functionality; however, you should be aware that there is far more than this.
 
 ## Steps
-1) Download rainmeter
+1) Download rainmeter (https://www.rainmeter.net/)
 2) After downloading/installing go to folder located in "C:\Users\[USER NAME]\Documents\Rainmeter\Skins"
 3) Place the DesktopIcons folder that I have provided in this folder
 4) Any icon pictures you want place in the root of the @Resources folder
